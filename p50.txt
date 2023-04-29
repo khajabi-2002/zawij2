@@ -1,0 +1,10 @@
+p50.///Define a class named American and its subclass NewYorker.///
+
+code:
+
+class American:
+    pass
+
+
+class NewYorker(American):
+    pass
