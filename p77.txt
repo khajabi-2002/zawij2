@@ -1,0 +1,14 @@
+﻿p77///Please generate a random float where the value is between 5 and 95 using 
+Python module.///
+
+
+
+code:
+
+import random
+
+
+random_float = random.uniform(5.0, 95.0)
+
+
+print(random_float)

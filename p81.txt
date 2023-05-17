@@ -1,0 +1,13 @@
+﻿p81/// Please write a program to generate a list with 5 random numbers between 
+100 and 200 inclusive.///
+
+
+code:
+
+import random
+
+
+random_numbers = [random.randint(100, 200) for _ in range(5)]
+
+
+print(random_numbers)
